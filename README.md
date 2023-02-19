@@ -1,4 +1,4 @@
-## Data Quest Projects,
+## Data Quest Projects
 
 This repository contains all the codes related to the DataQuest online courses I took in the last couple of Years. 
 
