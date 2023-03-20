@@ -23,4 +23,3 @@ Topics worked on include:
 - Introduction to Deep Learning
 - Introduction to Git and Version Control
 - Analyzing Large Datasets in Spark and Map-Reduce
-
